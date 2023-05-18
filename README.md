@@ -1,16 +1,10 @@
 # tic_tack
 
-A new Flutter project.
+Tic Tc Game 
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
+ 
+ This Project was Built Using Bloc State Mangment with clean code 
+ 
+ ![Screenshot_1684414102](https://github.com/lama1997-coder/tic_tac/assets/52495188/5725d0e8-022b-4f74-a29c-e76dd1a2fe3b)
